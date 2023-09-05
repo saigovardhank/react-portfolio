@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Project Summary
+
+Creating a react application for developing a porfolio website
+This website shows my skills, projects, testimonials and work experience
+
 ## Available Scripts
 
 In the project directory, you can run:
